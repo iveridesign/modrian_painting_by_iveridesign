@@ -27,7 +27,7 @@
 }
 
 #second-row-divider {
-	height: 18%;
+	height: 15%;
 	width: 2%;
 	float: right;
 	clear: left;
@@ -61,7 +61,7 @@
 }
 
 #second-column{
-	height: 10%;
+	height: 15%;
 	width: 30%;
 	background-color: blue;
 	float: right;
@@ -89,6 +89,7 @@
 	width: 1%;
 	float: left;
 }
+
 
 .black {
 	background-color: black;
