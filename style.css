@@ -2,8 +2,7 @@
 	height: 400px;
 	width: 300px;
 	background-color: ivory;
-	margin: 0 auto;
-	box-shadow: 20px 15px 80px coral;
+	margin: 0 auto;:;
 }
 
 #first-row {
@@ -26,3 +25,15 @@
 	background-color: lightgreen;
 	float: left;
 }
+
+.black {
+	background-color: black;
+}
+
+#first-divider {
+	height: 50%;
+	width: 3%;
+	float: left;
+}
+
+
